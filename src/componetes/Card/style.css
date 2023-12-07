@@ -1,0 +1,50 @@
+.card-tema-escuro{
+    background-color: #252525;
+    border: 1px solid #ffffff0d;
+}
+.card-tema-claro{
+    background-color: #f6f8fc;
+    
+}
+.paragrago-tema-escuro{
+    color: #9f9f9f;
+}
+.paragrago-tema-claro{
+    color: #8a8fa3;;
+}
+.subtitulo-tema-escuro{
+    color: #fff;
+}
+.subtitulo-tema-claro{
+    color: #32333c;
+}
+#secao-card{
+    width: 300px;
+    height: 300px;
+    border: 1px solid #edecec;
+}
+#secao-card:hover{
+    background-color: #feb633;
+}
+.cards{
+    font-family: 'poppins';
+    display: flex;
+    flex-direction: column;
+    line-height: 25px;
+    width: 210px;
+    height: 210px;
+    margin: 0 auto;
+    padding-top: 30px;
+}
+.cards h2{
+    padding-top: 20px;
+}
+.cards p{
+    width: 220px;
+}
+.texto-description1{
+    padding-top: 10px;
+}
+.texto-description2{
+    padding-top: 30px;
+}

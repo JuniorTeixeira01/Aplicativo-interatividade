@@ -1,0 +1,43 @@
+.banner-tema-escuro{
+    background-color: #252525;
+}
+.banner-tema-claro{
+    background-color: #fff;
+}
+.secao-banner{
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    margin: 0 auto;
+}
+#container-img-banner{
+    background-image: url('../../assets/banner.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+    height: 100vh;
+    width: 50%;
+}
+.container-texto-banner{
+    width: 50%;
+    height: 100vh;
+    background-color: #fafbfc;
+    font-family: 'poppins';
+    color: #022144;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 20px;
+}
+.container-texto-banner p{
+    font-size: 12px;
+}
+.container-texto-banner h2, span{
+    font-size: 52px;
+}
+.container-texto-banner span{
+    font-weight: bold;
+    font-style: italic;
+}

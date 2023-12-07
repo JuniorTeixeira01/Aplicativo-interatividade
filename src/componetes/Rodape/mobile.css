@@ -1,0 +1,8 @@
+@media (min-width: 375px) and (max-width: 768px){
+    #container-rodape p{
+       width: calc(100% - 10%);
+    }
+    .container-img-contatos{
+        gap: 10px;
+    }
+}

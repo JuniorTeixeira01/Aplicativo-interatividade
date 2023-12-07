@@ -1,0 +1,40 @@
+#container-topo{
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.topo-tema-escuro{
+    background-color: #252525;
+}
+.topo-tema-claro{
+    background-color: #fff;
+}
+.secao-topo{
+    width: 98%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+.secao-topo img{
+    max-height: 35px;
+}
+.botao-tema-escuro{
+    background-color: #fff;
+    border: 3px solid #252525;
+    border-radius: 50px;
+}
+.botao-tema-claro{
+    background-color: #252525;
+    border: 3px solid #fff;
+    border-radius: 50px;
+}
+.secao-topo button{
+    cursor: pointer;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.secao-topo button img{
+   width: 70%;
+}

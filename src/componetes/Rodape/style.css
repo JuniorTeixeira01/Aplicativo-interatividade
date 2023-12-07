@@ -1,0 +1,41 @@
+.rodape-tema-escuro{
+    background-color: #252525;
+}
+.rodape-tema-claro{
+    background-color: #fff;
+}
+.paragrafo-tema-escuro{
+    border: 2px solid #d6c6c60d;
+}
+.paragrafo-tema-claro{
+    border: 2px solid #ffffff0d;
+}
+#container-rodape{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+#container-rodape img{
+    width: auto;
+    margin-top: 50px;
+}
+#container-rodape p{
+    font-family: 'poppins';
+    color: #8a8fa3;
+    width: 490px;
+    text-align: center;
+    margin-top: 50px;
+}
+.container-img-contatos img{
+    height: 45px;
+}
+.container-img-contatos{
+    display: flex;
+    gap: 20px;
+}
+#container-rodape span{
+    color: #feb633;
+    font-size: 20px;
+}

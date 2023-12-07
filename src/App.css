@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins, sans-serif';
+    /* Fontes tema claro */
+    color: var(#022144);
+    color: var(#fafbfc);
+    color:var(#f6f8fc);
+    color: var(#8a8fa3);
+    color: var(#fff);
+    color: var(#feb633);
+
+    /* Fontes tema escuro */
+    color: var(#022144);
+    color: var(#fafbfc);
+    color: var(#cccccc);
+    color: var(#9f9f9f);
+    color: var(#393838);
+    color: var(#252525);
+    color: var(#feb633);
+}
+.tema-claro{
+    background-color: #f6f8fc;
+}
+.tema-escuro{
+    background-color: 252525;
+}
